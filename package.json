@@ -262,7 +262,7 @@
     "next-sitemap": "^3.1.10",
     "ng-packagr": "~20.3.0",
     "npm-package-arg": "11.0.1",
-    "nuxt": "^3.10.0",
+    "nuxt": "^3.19.0",
     "nx": "21.6.1-rc.0",
     "nx-mcp": "^0.1.0",
     "octokit": "^2.0.14",
