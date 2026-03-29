@@ -216,7 +216,7 @@
     "github-slugger": "^2.0.0",
     "globals": "^15.9.0",
     "gpt3-tokenizer": "^1.1.5",
-    "handlebars": "4.7.7",
+    "handlebars": "4.7.9",
     "html-webpack-plugin": "5.5.0",
     "http-proxy-middleware": "3.0.5",
     "http-server": "14.1.0",
@@ -332,7 +332,7 @@
     "webpack-node-externals": "^3.0.0",
     "webpack-subresource-integrity": "^5.1.0",
     "xstate": "4.34.0",
-    "yaml": "^2.6.0",
+    "yaml": "^2.8.3",
     "yargs": "catalog:",
     "yargs-parser": "catalog:",
     "zone.js": "catalog:angular"
